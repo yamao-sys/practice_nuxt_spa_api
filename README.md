@@ -1,0 +1,2 @@
+# practice_nuxt_spa_api
+NuxtとrailsでSPAを実装する練習
